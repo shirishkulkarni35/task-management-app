@@ -1,0 +1,12 @@
+.student__heading{
+    padding: 1rem 1rem;
+    text-align: center;
+}
+.body__student__btn{
+    text-align: center;
+    margin-bottom:2rem;
+}
+
+.card{
+    border-radius: 5px;;
+}
